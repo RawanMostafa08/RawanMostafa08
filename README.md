@@ -13,8 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,c,py,java,anaconda,bash,bootstrap,cmake,cypress,eclipse,electron,express,figma,git,kali,matlab,mongodb,nodejs,postman,powershell,react,ros,sklearn,tailwind,ts,vite)](https://skillicons.dev)
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RawanMostafa08&show_icons=true&locale=en&layout=compact" alt="RawanMostafa08" /></p>
 
 ![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RawanMostafa08&show_icons=true&theme=cobalt)
